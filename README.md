@@ -2,4 +2,4 @@
 
 ## Aula 1
 
-- [ ] Fazer o setup do ambiente
+- [x] Fazer o setup do ambiente
