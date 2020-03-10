@@ -1,1 +1,3 @@
 *.opendb
+ .vs/Sabertooth/v16/*
+ Sabertooth/x64/Debug/*
