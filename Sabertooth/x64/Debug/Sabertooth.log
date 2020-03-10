@@ -1,13 +1,6 @@
 ﻿  main.cpp
 C:\Development\University\202001-processamento-grafico\Sabertooth\main.cpp(3,1): warning C4005: 'EXIT_FAILURE': macro redefinition
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(49): message : see previous definition of 'EXIT_FAILURE'
-  Shader.cpp
-  System.cpp
-  Texture.cpp
-C:\Development\University\202001-processamento-grafico\Sabertooth\Texture.cpp(20,13): warning C4101: 'height': unreferenced local variable
-C:\Development\University\202001-processamento-grafico\Sabertooth\Texture.cpp(20,6): warning C4101: 'width': unreferenced local variable
-C:\Development\University\202001-processamento-grafico\Sabertooth\Texture.cpp(21,17): warning C4101: 'image': unreferenced local variable
-  Generating Code...
   SOIL.lib(SOIL.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
 LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
 LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
